@@ -1,0 +1,16 @@
+D:\shared repos\TTT\TicTacToeEnd\bin\Debug\net5.0\TicTacToeEnd.exe
+D:\shared repos\TTT\TicTacToeEnd\bin\Debug\net5.0\TicTacToeEnd.deps.json
+D:\shared repos\TTT\TicTacToeEnd\bin\Debug\net5.0\TicTacToeEnd.runtimeconfig.json
+D:\shared repos\TTT\TicTacToeEnd\bin\Debug\net5.0\TicTacToeEnd.runtimeconfig.dev.json
+D:\shared repos\TTT\TicTacToeEnd\bin\Debug\net5.0\TicTacToeEnd.dll
+D:\shared repos\TTT\TicTacToeEnd\bin\Debug\net5.0\ref\TicTacToeEnd.dll
+D:\shared repos\TTT\TicTacToeEnd\bin\Debug\net5.0\TicTacToeEnd.pdb
+D:\shared repos\TTT\TicTacToeEnd\obj\Debug\net5.0\TicTacToeEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\shared repos\TTT\TicTacToeEnd\obj\Debug\net5.0\TicTacToeEnd.AssemblyInfoInputs.cache
+D:\shared repos\TTT\TicTacToeEnd\obj\Debug\net5.0\TicTacToeEnd.AssemblyInfo.cs
+D:\shared repos\TTT\TicTacToeEnd\obj\Debug\net5.0\TicTacToeEnd.csproj.CoreCompileInputs.cache
+D:\shared repos\TTT\TicTacToeEnd\obj\Debug\net5.0\TicTacToeEnd.dll
+D:\shared repos\TTT\TicTacToeEnd\obj\Debug\net5.0\ref\TicTacToeEnd.dll
+D:\shared repos\TTT\TicTacToeEnd\obj\Debug\net5.0\TicTacToeEnd.pdb
+D:\shared repos\TTT\TicTacToeEnd\obj\Debug\net5.0\TicTacToeEnd.genruntimeconfig.cache
+D:\shared repos\TTT\TicTacToeEnd\obj\Debug\net5.0\TicTacToeEnd.csproj.AssemblyReference.cache
